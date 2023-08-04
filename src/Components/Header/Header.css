@@ -1,0 +1,47 @@
+.Navigation {
+    box-shadow: 0 15px 20px 0 rgba(0, 0, 0, 0.13);
+}
+
+.Brand {
+    margin-top: -20px;
+}
+
+.Brand:hover {
+    color: white !important;
+    text-decoration: none;
+}
+
+.NavLink {
+    text-decoration: none;
+    color: white !important;
+    font-size: 1.1rem;
+    padding: 6px;
+    margin-right: 8px;
+}
+
+.NavLink:hover {
+    color: white !important;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+}
+
+.avatar {
+    text-decoration: none;
+    color: #008baa !important;
+    font-size: 20px;
+    margin-left: 6px;
+    padding: 6px;
+    font-size: 1.1rem;
+}
+
+.avatar:hover {
+    color: #0fc0d7 !important;
+    text-decoration: none;
+}
+
+
+
+.active {
+    border-bottom: 3px solid white;
+    opacity: 1;
+}
